@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+    int a,b;
+ printf("enter length and width of rectangle :");
+ scanf("%d %d",&a ,&b);
+ printf("the area of the ractangle %d",a*b);
+ printf("\nthe perimeter of the rectangle  : %d",(a+b)*2);
+}
