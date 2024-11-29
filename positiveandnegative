@@ -1,0 +1,17 @@
+#include<studio.h>
+void main
+{
+    int a,b,c
+    scanf("%d"&a)
+    printf("enter the number");
+    {
+    if (a>=1)
+    ("print positive number")
+     else if (a<0)
+     printf("\nNegative namber");
+    }
+    else
+    {
+        printf("\nzero");
+    }
+        
