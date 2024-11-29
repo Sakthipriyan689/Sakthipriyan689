@@ -1,0 +1,10 @@
+#include <stdio.h>
+ int main()
+ {
+     int n,octagonal number;
+     printf("enter n value");
+     scanf("%d",&n);
+     octagonalnumber=(3*n*n-2*n);
+     printf(" octogonal number = %d\n",octagonalnumber);
+     return 0;
+ }
